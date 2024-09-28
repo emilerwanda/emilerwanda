@@ -8,7 +8,7 @@
 - 📫 How to reach me **ishemile@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-[![it](https://github.com/user-attachments/assets/a3ca0058-5214-420d-80bc-dc328f6cce0e)](https://sl.bing.net/hFlnMSp5cMC)
+
 
 
 <p align="left">
