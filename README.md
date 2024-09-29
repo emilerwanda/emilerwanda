@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishimwe Emile</h1>
-<h3 align="center">A passionate frontend developer from Rwanda</h3>
+<h3 align="center">A passionate Software engineeriner from Rwanda</h3>
 
 - 🌱 I’m currently learning **Software engineering in Adventist University of Central Africa**
 
